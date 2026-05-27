@@ -222,3 +222,4 @@ yarn add @base-org/account
 
 ## Contributing
 PRs welcome!
+\n## Improvements\n- Added async initialization example\n- Clarified error handling docs
